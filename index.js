@@ -1,1 +1,3 @@
-hi
+const hi = () => {
+  return 'hi'
+}
