@@ -1,3 +1,0 @@
-const hi = () => {
-  return 'hi'
-}
