@@ -1,2 +1,9 @@
+.idea
+package-lock.json
 node_modules
-/package-lock.json
+yarn-error.log
+public/dist
+.env.test
+.env.development
+ngrok
+coverage
