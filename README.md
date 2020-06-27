@@ -19,8 +19,8 @@ What things you need to install the project:
 ### Installing
 
 ```
-git clone git@github.com:proustibat/expensify-app.git
-cd expensify-app
+git clone git@github.com:ferhatsahin/app-expensify.git
+cd app-expensify
 yarn install
 ```
 
