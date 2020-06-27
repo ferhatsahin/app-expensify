@@ -1,4 +1,4 @@
-# clone-expensify
+# app-expensify
 
 A web app to manage expenses, based on a course from [Udemy](https://www.udemy.com/react-2nd-edition/) (React, Redux, Jest, Enzyme, Firebase, Heroku).
 
